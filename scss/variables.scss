@@ -4,7 +4,7 @@ $bodyGlobalcolor: #1b2638;
 
 // ****** Main menu variables ********* //
 $blendModeColor: rgba(0,0,0,0.46);
-$buttonBackground: #1b2638;
+$buttonBackground: #292a62;
 $buttonTextColor: white;
 $buttonBorderColor: white;
 // hover effect variables
@@ -29,9 +29,13 @@ $backgroundThemeThreeColor:  rgba(255,255,255,0.56);
 $buttonThemeThreeTextColor: #1b2638;
 $videoThemeThreeBorderColor: #1b2638;
 
-//****** game_main *********//
+// BOTH CARD GAME VARIABLES //
 
-$messageBackgroundColor: rgba(255,255,255,0.46);
-$messageTextColor: #1b2638;
-$messageBorderColor: #1b2638;
-$backButtonTextColor: #1b2638;
+$cardGameMainBackButtonTextColor: #1b2638;
+$cardGamesBackground: #1b2638;  // background: #0cd1bd;
+$cardBackButtonTextColor: #1b2638;
+$cardColor: snow;
+$cardBorder: 4px solid white;
+
+// theme_two_main variables //
+$themeTwoMainBackButtonTextColor: #1b2638;

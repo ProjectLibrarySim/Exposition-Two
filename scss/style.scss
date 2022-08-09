@@ -1,9 +1,11 @@
 @import "variables.scss";
 @import "main_menu/menu.scss";
+@import "main_menu/main_second.scss";
 @import "scss/theme_one.scss";
 @import "scss/theme_two.scss";
 @import "scss/theme_three.scss";
 @import "scss/game/game_main.scss";
+@import "scss/game/game_main2.scss";
 @import "scss/page_transition.scss";
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap');
 
@@ -17,8 +19,4 @@
 
 body {
   background: $bodyGlobalcolor;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  min-height: 100vh;
 }
